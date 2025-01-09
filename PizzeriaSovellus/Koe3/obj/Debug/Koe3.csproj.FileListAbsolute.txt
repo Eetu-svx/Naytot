@@ -1,0 +1,10 @@
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\bin\Debug\Koe3.exe.config
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\bin\Debug\Koe3.exe
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\bin\Debug\Koe3.pdb
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\obj\Debug\Koe3.csproj.AssemblyReference.cache
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\obj\Debug\Koe3.Form1.resources
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\obj\Debug\Koe3.Properties.Resources.resources
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\obj\Debug\Koe3.csproj.GenerateResource.cache
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\obj\Debug\Koe3.csproj.CoreCompileInputs.cache
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\obj\Debug\Koe3.exe
+C:\Users\eetu.rekiranta\Source\Repos\Koe3\Koe3\obj\Debug\Koe3.pdb
